@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  code {
+    @apply bg-neutral-950/30 px-2 rounded;
+  }
+}
